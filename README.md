@@ -7,6 +7,10 @@
   <li>Usando funciones (ECMAScript 6), función mediante expresión.</li>
   <li>else if</li>
   <li>Eventos</li>
+  <li>Formulario</li>
+  <li>CSS basico</li>
+  <li>FontAwesome/li>
+  <li>Google Fonts</li>
   </ol>
   
   <h5>**SIN FRAMEWORK para JS y CSS**</h5>
