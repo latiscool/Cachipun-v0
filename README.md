@@ -1,17 +1,17 @@
 # Cachipun-v0
 
-## Ejercicio Basico de JavaScript
-----------------------------------
+<h1>Ejercicio Basico de JavaScript</h1>
+<hr>
+<ol>
+<li>Usando funciones (ECMAScript 5), función mediante expresión y función mediante declaración.</li>
+<li>else if</li>
+<li>switch</li>
+</ol>
 
-1.- *Usando funciones (ECMAScript 5), función mediante expresión y función mediante declaración.
-2.- *else if.
-3.- *switch.
+<h5>**SIN FRAMEWORK para JS y CSS**</h5>
 
-### SIN FRAMEWORK para JS y CSS
-
-## Ver Publicado
-[https://latiscool.github.io/Cachipun-v0/]: Version 0
-
+<p>Ver Publicado</p>
+<a href="https://latiscool.github.io/Cachipun-v0/">Desafio CAHUPIN</a> : Version 0
 Luis Torre G. 2022
 
   
