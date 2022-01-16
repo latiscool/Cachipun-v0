@@ -18,7 +18,7 @@ let seleccionHumano = (jugadaHumano) => {
   //IMPRIME EN  EL HTML EL FONTAWESOME SELECCIONADO POR HUMANO
   humanOpcion.innerHTML = ` <i class="fas ${jugadaHumano} fa-10x" value=<"${jugadaHumano}"></i>`;
   // ELIGIENDO EL GANADOR
-  //TENIENDO LAS DOS SELECCIONES (ARGUMENTOS) SALTO A LINEA 95 - vencedorSesion
+  //TENIENDO LAS DOS SELECCIONES (ARGUMENTOS) SALTO A LINEA 39 - vencedorSesion
   robotSeleccion();
   vencedor = vencedorSesion(jugadaHumano, robotSeleccion());
   resultadoSesion.innerText = vencedor;
