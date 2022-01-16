@@ -9,7 +9,7 @@
   <li>Eventos</li>
   <li>Formulario</li>
   <li>CSS basico</li>
-  <li>FontAwesome/li>
+  <li>FontAwesome</li>
   <li>Google Fonts</li>
   </ol>
   
