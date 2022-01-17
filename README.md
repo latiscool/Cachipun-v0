@@ -12,9 +12,10 @@
 
 Luis Torre G. 2022
 
-<h5>BRANCH . Version 1.0</h5>
+<hr>
+<h5> Branch . Version 1.0</h5>
 <ul>
-<li>https://github.com/latiscool/Cachipun-v0/tree/Kxipun</li>
+<li>REPOSITORIO --> https://github.com/latiscool/Cachipun-v0/tree/Kxipun</li>
 <li>Ver Publicado  <a href="https://latiscool.github.io/Cachipun-v0/">Desafio KXIPUN</a> : Version 1<br></li>
   </ul>
  
